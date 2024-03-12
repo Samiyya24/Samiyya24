@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiyya24&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiyya24&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samiyya24&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samiyya24&theme=aura&utcOffset=8)
