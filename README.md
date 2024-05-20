@@ -7,6 +7,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-082032?style=for-the-badge&logo=Redis&logoColor=47A248)
 
 # Wakatime
-[![wakatime](https://wakatime.com/badge/user/018ccb09-df8b-4073-a613-7ec46231e3e2.svg)](https://wakatime.com/@018ccb09-df8b-4073-a613-7ec46231e3e2)
+[![wakatime](https://wakatime.com/@018dc26d-5fd0-4ad4-9c7f-a016a7fcca0c)
 
 
