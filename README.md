@@ -1,5 +1,5 @@
 
-##  Samiya Azizkhanova | Nodejs backend developer
+##  Samiya Azizkhanova | Node.js & Vue.js fullstack developer
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-082032?style=for-the-badge&logo=Express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=47A248)
