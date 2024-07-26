@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiyya</h1>
 <h3 align="center">Fullstack developer in Uzbekistan</h3>
 
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
