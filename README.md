@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samiyya</h1>
 <h3 align="center">Fullstack developer in Uzbekistan</h3>
 
-[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif
-](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
+https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/samiya.azizkhanova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/samiya.azizkhanova/" height="30" width="40" /></a>
